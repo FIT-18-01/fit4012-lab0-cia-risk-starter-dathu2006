@@ -14,14 +14,11 @@
 - [x] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-    Gặp lỗi hệ thống không nhận diện được lệnh git khi thực hiện clone repo lần đầu.
-    Nhầm lẫn tên thư mục khi sử dụng lệnh cd (gõ sai tên giữa lab0 và lab01).
-- Cách em xử lý:
-    Tìm kiếm nguyên nhân lỗi, thực hiện tải và cài đặt lại Git for Windows bản 64-bit.
-    Khởi động lại terminal để cập nhật biến môi trường.
-    Sử dụng phím Tab để tự động hoàn tất tên thư mục (Auto-complete) nhằm tránh sai sót khi gõ lệnh.
-- Điều em học được từ bài lab:
-    Hiểu sâu hơn về 3 trụ cột của an toàn thông tin (CIA Triad) thông qua các ví dụ thực tế.
-    Biết cách phân tích một sự cố an ninh dưới góc độ kỹ thuật (Lỗ hổng) và con người (Mối đe dọa).
-    Thành thạo hơn các thao tác cơ bản với Git và dòng lệnh (CLI) trong việc quản lý mã nguồn.
+- Khó khăn gặp phải: Phân biệt rõ giữa Threat và Vulnerability.
+					 Xác định đúng thành phần CIA bị vi phạm trong từng sự cố.
+					 
+- Cách em xử lý: Tra cứu thêm các ví dụ thực tế về tấn công hệ thống điểm.
+                 Sử dụng sơ đồ tư duy để phân tích rủi ro một cách hệ thống.
+                 
+- Điều em học được từ bài lab: Hiểu rõ tầm quan trọng của bộ ba CIA đối với tài sản (Assets).
+                               Thành thạo quy trình làm việc cơ bản trên GitHub (Clone, Push).
